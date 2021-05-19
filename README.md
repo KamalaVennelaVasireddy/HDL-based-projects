@@ -14,5 +14,4 @@ Objectives:
 
 3. To implement sequential and combinational logic circuits in verilog and simulate them using appropriate test benches.
 
----------------------------------------------------------------------------------------
 
